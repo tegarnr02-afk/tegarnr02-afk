@@ -70,7 +70,9 @@
   <a href="mailto:tegarnr02@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://id.linkedin.com/in/muhammad-tegar-nur-rachma-b1819028b" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
   <a href="https://www.instagram.com/tgr_nr2" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -81,10 +83,24 @@
 
 ###
 
+<br clear="both">
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/tegarnr02-afk/tegarnr02-afk/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
 <div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/https://open.spotify.com/user/31757nbzh2kst32v6mmfsu2n72g4?si=83404f5d0d2b4be6">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=https://open.spotify.com/user/31757nbzh2kst32v6mmfsu2n72g4?si=83404f5d0d2b4be6&count=5&unique=false" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/31757nbzh2kst32v6mmfsu2n72g4">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31757nbzh2kst32v6mmfsu2n72g4&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tegarnr02-afk/tegarnr02-afk/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tegarnr02-afk/tegarnr02-afk/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tegarnr02-afk/tegarnr02-afk/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
 ###

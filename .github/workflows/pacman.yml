@@ -16,6 +16,9 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      - name: create dist folder
+        run: mkdir -p dist && chmod 777 dist
+
       - name: generate snake
         uses: Platane/snk@v3
         with:

@@ -91,13 +91,9 @@
   <img alt="Snake animation" src="https://raw.githubusercontent.com/tegarnr02-afk/tegarnr02-afk/output/github-snake.svg" />
 </picture>
 
-###
 
-<div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/31757nbzh2kst32v6mmfsu2n72g4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31757nbzh2kst32v6mmfsu2n72g4&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
+
+
 
 ###
 

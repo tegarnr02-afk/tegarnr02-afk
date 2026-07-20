@@ -1,0 +1,29 @@
+name: generate pacman contribution graph
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: generate graph
+        uses: Kalkwarf/pacman-contribution-graph-action@v1
+        with:
+          githubUserName: tegarnr02-afk
+          outputFolder: pacman-output
+
+      - name: push graph
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: pacman-output
+          build_dir: pacman-output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

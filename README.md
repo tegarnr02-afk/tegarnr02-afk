@@ -85,7 +85,11 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/tegarnr02-afk/tegarnr02-afk/snake-output/snake.svg" alt="Snake animation" />
+<picture data-importer="snake">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tegarnr02-afk/tegarnr02-afk/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tegarnr02-afk/tegarnr02-afk/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/tegarnr02-afk/tegarnr02-afk/output/github-snake.svg" />
+</picture>
 
 ###
 

@@ -93,18 +93,10 @@
 
 ###
 
-<div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/31757nbzh2kst32v6mmfsu2n72g4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31757nbzh2kst32v6mmfsu2n72g4&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tegarnr02-afk/tegarnr02-afk/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tegarnr02-afk/tegarnr02-afk/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tegarnr02-afk/tegarnr02-afk/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tegarnr02-afk/tegarnr02-afk/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tegarnr02-afk/tegarnr02-afk/output/pacman-contribution-graph.svg" />
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tegarnr02-afk/tegarnr02-afk/output/pacman-contribution-graph.svg" />
 </picture>
 
 ###
